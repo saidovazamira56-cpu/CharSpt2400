@@ -1,0 +1,6 @@
+{
+  "name": "ChatSptAi",
+  "description": "Интеллектуальный ИИ-чат-бот ChatSptAi с глубокой поддержкой современных моделей и дизайном Liquid Glass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
